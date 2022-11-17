@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../ASKModulate.gen/sources_1/ip/xfft_analyze/sim/xfft_analyze.vhd" \
+
+nosort

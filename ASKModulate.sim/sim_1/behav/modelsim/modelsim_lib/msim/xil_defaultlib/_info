@@ -1,0 +1,363 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+!s11e vcom 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.sim/sim_1/behav/modelsim
+T_opt
+!s110 1668666396
+VmIWE<_Id4VG^Y1BGaTM6_2
+04 6 4 work TB_TOP fast 0
+04 4 4 work glbl fast 0
+=1-50ebf6d34665-6375d411-80-470c
+o-quiet -auto_acc_if_foreign -work xil_defaultlib -L xil_defaultlib -L xbip_utils_v3_0_10 -L axi_utils_v2_0_6 -L c_reg_fd_v12_0_6 -L xbip_dsp48_wrapper_v3_0_4 -L xbip_pipe_v3_0_6 -L xbip_dsp48_addsub_v3_0_6 -L xbip_addsub_v3_0_6 -L c_addsub_v12_0_14 -L c_mux_bit_v12_0_6 -L c_shift_ram_v12_0_14 -L xbip_bram18k_v3_0_6 -L mult_gen_v12_0_18 -L cmpy_v6_0_21 -L floating_point_v7_0_20 -L xfft_v9_1_8 -L unisims_ver -L unimacro_ver -L secureip -L xpm +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vASKMOD
+!s10a 1667530377
+Z2 !s110 1668665575
+!i10b 1
+!s100 ITQ5NDa5<<J9fe6^bkIMZ3
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I2fg>EYGQfcO>ZMk?NUllE3
+R0
+w1667530377
+8../../../../ASKModulate.srcs/sources_1/new/ASKMOD.v
+F../../../../ASKModulate.srcs/sources_1/new/ASKMOD.v
+!i122 1
+L0 23 13
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1668665574.000000
+Z7 !s107 ../../../../ASKModulate.srcs/sim_1/new/TB_TOP.v|../../../../ASKModulate.srcs/sources_1/new/myFFT.v|../../../../ASKModulate.srcs/sources_1/new/TOP.v|../../../../ASKModulate.srcs/sources_1/new/Scramber.v|../../../../ASKModulate.srcs/sources_1/new/RCosFIR.v|../../../../ASKModulate.srcs/sources_1/new/Freq_Divider.v|../../../../ASKModulate.srcs/sources_1/new/DDS.v|../../../../ASKModulate.srcs/sources_1/new/ASKMOD.v|../../../../ASKModulate.srcs/sources_1/new/1Bto2B.v|
+Z8 !s90 -incr|-mfcu|-work|xil_defaultlib|../../../../ASKModulate.srcs/sources_1/new/1Bto2B.v|../../../../ASKModulate.srcs/sources_1/new/ASKMOD.v|../../../../ASKModulate.srcs/sources_1/new/DDS.v|../../../../ASKModulate.srcs/sources_1/new/Freq_Divider.v|../../../../ASKModulate.srcs/sources_1/new/RCosFIR.v|../../../../ASKModulate.srcs/sources_1/new/Scramber.v|../../../../ASKModulate.srcs/sources_1/new/TOP.v|../../../../ASKModulate.srcs/sources_1/new/myFFT.v|../../../../ASKModulate.srcs/sim_1/new/TB_TOP.v|
+!i113 0
+Z9 o-mfcu -work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@a@s@k@m@o@d
+vDDS
+!s10a 1667459139
+R2
+!i10b 1
+!s100 AHmCP`6HBH6^N5T`D2GoU0
+R3
+IA5@IdN3YJ=U;c_N>Hc8dJ3
+R0
+w1667459139
+8../../../../ASKModulate.srcs/sources_1/new/DDS.v
+F../../../../ASKModulate.srcs/sources_1/new/DDS.v
+!i122 1
+L0 22 49
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@d@d@s
+vFreq_Divider
+!s10a 1668600382
+R2
+!i10b 1
+!s100 lo07:OE;oa4]25oMSA72:3
+R3
+I<haM>hzLfS?eo2hD2<_Mk0
+R0
+w1668600382
+8../../../../ASKModulate.srcs/sources_1/new/Freq_Divider.v
+F../../../../ASKModulate.srcs/sources_1/new/Freq_Divider.v
+!i122 1
+L0 23 51
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@freq_@divider
+vglbl
+Z10 !s110 1668666379
+!i10b 1
+!s100 ZHmTNm_h3dd`6mIQLzSUN3
+R3
+IJT>_:<WW6a7KP^k3<8E3=1
+R0
+w1665704903
+8glbl.v
+Fglbl.v
+!i122 11
+L0 6 78
+R4
+R5
+r1
+!s85 0
+31
+Z11 !s108 1668666379.000000
+!s107 glbl.v|
+!s90 -work|xil_defaultlib|glbl.v|
+!i113 0
+o-work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+Emult_gen_0
+Z12 w1668605154
+Z13 DPx17 mult_gen_v12_0_18 26 mult_gen_v12_0_18_viv_comp 0 22 [d1^T<Z9`YeGjV1jl5jgJ0
+DEx17 mult_gen_v12_0_18 17 mult_gen_v12_0_18 0 22 haYPdWM?PCA]>_51gd6;e1
+Z14 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z15 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z16 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 9
+R0
+Z17 8../../../../ASKModulate.gen/sources_1/ip/mult_gen_0/sim/mult_gen_0.vhd
+Z18 F../../../../ASKModulate.gen/sources_1/ip/mult_gen_0/sim/mult_gen_0.vhd
+l0
+Z19 L59 1
+VTJRfPA^n@33]0M3jzn^V:2
+!s100 853dbozO;5dVLImGaC[QY3
+Z20 OL;C;2020.4;71
+31
+R10
+!i10b 1
+R11
+Z21 !s90 -93|-work|xil_defaultlib|../../../../ASKModulate.gen/sources_1/ip/xfft_analyze/sim/xfft_analyze.vhd|../../../../ASKModulate.gen/sources_1/ip/mult_gen_0/sim/mult_gen_0.vhd|
+Z22 !s107 ../../../../ASKModulate.gen/sources_1/ip/mult_gen_0/sim/mult_gen_0.vhd|../../../../ASKModulate.gen/sources_1/ip/xfft_analyze/sim/xfft_analyze.vhd|
+!i113 0
+Z23 o-93 -work xil_defaultlib
+Z24 tExplicit 1 CvgOpt 0
+Amult_gen_0_arch
+R13
+R14
+R15
+R16
+DEx4 work 10 mult_gen_0 0 22 TJRfPA^n@33]0M3jzn^V:2
+!i122 9
+l113
+L68 78
+VnmHaJbkmYE<AF`Hc`5oXT0
+!s100 J93jE1S@8BBQ960nXG1Cn2
+R20
+31
+R10
+!i10b 1
+R11
+R21
+R22
+!i113 0
+R23
+R24
+vmyFFT
+!s10a 1668665829
+!s110 1668665844
+!i10b 1
+!s100 Hc?dbRjje];R@T>Wce<5B1
+R3
+IN`L;4<aK7iH?zDfMP74a82
+R0
+w1668665829
+8../../../../ASKModulate.srcs/sources_1/new/myFFT.v
+F../../../../ASKModulate.srcs/sources_1/new/myFFT.v
+!i122 4
+L0 23 60
+R4
+R5
+r1
+!s85 0
+31
+!s108 1668665844.000000
+R7
+R8
+!i113 0
+R9
+R1
+nmy@f@f@t
+vOneBittoTwoBit
+!s10a 1667527604
+R2
+!i10b 1
+!s100 jMUO2DjKf6MJQiRm1O9zB2
+R3
+I;hY[M6KEKfCTaEQm<Z@N@1
+R0
+w1667527604
+8../../../../ASKModulate.srcs/sources_1/new/1Bto2B.v
+F../../../../ASKModulate.srcs/sources_1/new/1Bto2B.v
+!i122 1
+L0 23 23
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@one@bitto@two@bit
+vScrambler
+!s10a 1668611790
+R2
+!i10b 1
+!s100 c@PfU7`_c:JF;6^6>nAXS1
+R3
+IQITbPX^P7DF=2Ido71Lbf1
+R0
+w1668611790
+8../../../../ASKModulate.srcs/sources_1/new/Scramber.v
+F../../../../ASKModulate.srcs/sources_1/new/Scramber.v
+!i122 1
+L0 23 46
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@scrambler
+vTB_TOP
+!s10a 1667808195
+R2
+!i10b 1
+!s100 V[CB=?G1h];eObVm^Z@7Q3
+R3
+IH2:E?Af[5l>bE>TC;BTKf2
+R0
+w1667808195
+8../../../../ASKModulate.srcs/sim_1/new/TB_TOP.v
+F../../../../ASKModulate.srcs/sim_1/new/TB_TOP.v
+!i122 1
+L0 23 54
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@t@b_@t@o@p
+vTOP
+R10
+!i10b 1
+!s100 Vd:gh^NiW2RQB?68QiKH;2
+R3
+Ikdz88nk_9R8^:hYb332eC1
+R0
+w1668666361
+8../../../../ASKModulate.srcs/sources_1/new/TOP.v
+F../../../../ASKModulate.srcs/sources_1/new/TOP.v
+!i122 10
+L0 1 123
+R4
+R5
+r1
+!s85 0
+31
+R11
+R7
+R8
+!i113 0
+R9
+R1
+n@t@o@p
+Exfft_analyze
+Z25 w1668663623
+Z26 DPx11 xfft_v9_1_8 20 xfft_v9_1_8_viv_comp 0 22 mV0UQk71bd:WH;T`N2_Wk3
+Z27 DPx18 xbip_utils_v3_0_10 22 xbip_utils_v3_0_10_pkg 0 22 Dl[B8jVN^QG7BJ5WG1RoO0
+DEx11 xfft_v9_1_8 11 xfft_v9_1_8 0 22 YCeW@=kefU4Cc9hWYe5:j0
+R14
+R15
+R16
+!i122 9
+R0
+Z28 8../../../../ASKModulate.gen/sources_1/ip/xfft_analyze/sim/xfft_analyze.vhd
+Z29 F../../../../ASKModulate.gen/sources_1/ip/xfft_analyze/sim/xfft_analyze.vhd
+l0
+R19
+VO1VXMRP<V:nhWVg_D_KDE1
+!s100 0B?Y@n0TZH8edcaOG1@CR1
+R20
+31
+R10
+!i10b 1
+R11
+R21
+R22
+!i113 0
+R23
+R24
+Axfft_analyze_arch
+R26
+R27
+R14
+R15
+R16
+DEx4 work 12 xfft_analyze 0 22 O1VXMRP<V:nhWVg_D_KDE1
+!i122 9
+l192
+L87 170
+V3AzF8Q]4hj98Fz0ENNG3F3
+!s100 3PmlX89G_6Ml@7`TVO63T1
+R20
+31
+R10
+!i10b 1
+R11
+R21
+R22
+!i113 0
+R23
+R24
+vXilinx_FIR_Guide_liuqi
+!s10a 1668605593
+R2
+!i10b 1
+!s100 VZg08T2eR3GDcledmlRU=2
+R3
+I;MeNak^IDcNdEE_D^j7Qg3
+R0
+w1668605593
+8../../../../ASKModulate.srcs/sources_1/new/RCosFIR.v
+F../../../../ASKModulate.srcs/sources_1/new/RCosFIR.v
+!i122 1
+L0 3 221
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@xilinx_@f@i@r_@guide_liuqi

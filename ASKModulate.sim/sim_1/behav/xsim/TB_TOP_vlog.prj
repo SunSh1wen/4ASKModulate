@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ASKModulate.srcs/sources_1/new/1Bto2B.v" \
+"../../../../ASKModulate.srcs/sources_1/new/ASKMOD.v" \
+"../../../../ASKModulate.srcs/sources_1/new/DDS.v" \
+"../../../../ASKModulate.srcs/sources_1/new/Freq_Divider.v" \
+"../../../../ASKModulate.srcs/sources_1/new/RCosFIR.v" \
+"../../../../ASKModulate.srcs/sources_1/new/Scramber.v" \
+"../../../../ASKModulate.srcs/sources_1/new/TOP.v" \
+"../../../../ASKModulate.srcs/sim_1/new/TB_TOP.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

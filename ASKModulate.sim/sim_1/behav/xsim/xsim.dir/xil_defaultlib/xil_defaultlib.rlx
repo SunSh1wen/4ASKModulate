@@ -1,0 +1,15 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.gen/sources_1/ip/mult_gen_0/sim/mult_gen_0.vhd,1668605154,vhdl,,,,mult_gen_0,,,,,,,,
+F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.srcs/sim_1/new/TB_DDS.v,1667459107,verilog,,,,TB_DDS,,,,,,,,
+F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.srcs/sim_1/new/TB_TOP.v,1667808195,verilog,,,,TB_TOP,,,,,,,,
+F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.srcs/sources_1/new/1Bto2B.v,1667527604,verilog,,F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.srcs/sources_1/new/ASKMOD.v,,OneBittoTwoBit,,,,,,,,
+F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.srcs/sources_1/new/ASKMOD.v,1667530377,verilog,,F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.srcs/sources_1/new/DDS.v,,ASKMOD,,,,,,,,
+F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.srcs/sources_1/new/DDS.v,1667459139,verilog,,F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.srcs/sources_1/new/Freq_Divider.v,,DDS,,,,,,,,
+F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.srcs/sources_1/new/Freq_Divider.v,1668600382,verilog,,F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.srcs/sources_1/new/RCosFIR.v,,Freq_Divider,,,,,,,,
+F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.srcs/sources_1/new/RCosFIR.v,1668605593,verilog,,F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.srcs/sources_1/new/Scramber.v,,Xilinx_FIR_Guide_liuqi,,,,,,,,
+F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.srcs/sources_1/new/Scramber.v,1667524507,verilog,,F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.srcs/sources_1/new/TOP.v,,Scrambler,,,,,,,,
+F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.srcs/sources_1/new/TOP.v,1668605706,verilog,,F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.srcs/sim_1/new/TB_TOP.v,,TOP,,,,,,,,

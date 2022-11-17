@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Thu Nov 17 13:40:26 2022
+# Process ID: 21004
+# Current directory: F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.runs/xfft_analyze_synth_1
+# Command line: vivado.exe -log xfft_analyze.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source xfft_analyze.tcl
+# Log file: F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.runs/xfft_analyze_synth_1/xfft_analyze.vds
+# Journal file: F:/SSWPersonalData/Project/Vivado/ASKModulate/ASKModulate.runs/xfft_analyze_synth_1\vivado.jou
+# Running On: Cindy, OS: Windows, CPU Frequency: 2688 MHz, CPU Physical cores: 14, Host memory: 16857 MB
+#-----------------------------------------------------------
+source xfft_analyze.tcl -notrace
